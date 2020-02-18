@@ -1,1 +1,1 @@
-This repositoy is my a repository for coding along the  WebDev course on Udemy
+This repositoy is a repository for coding along the  WebDev course on Udemy
