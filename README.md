@@ -1,1 +1,1 @@
-This project is my first project for the WebDev course on Udemy
+This repositoy is my a repository for coding along the  WebDev course on Udemy
